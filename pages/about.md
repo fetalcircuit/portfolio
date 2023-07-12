@@ -4,4 +4,19 @@ title: About
 permalink: /about
 ---
 
-Tiffany Funk (PhD) is an artist, educator, and art historian specializing in the history of computer art, creative coding, interactive performance, and video games. She is co-founder of the Interdisciplinary Education in the Arts program at the University of Illinois at Chicago where she teaches courses on digital media history, theory, and production. She is the Director of Publications of the Video Game Art Gallery, and Editor-in-Chief of the Video Game Art Reader: a peer-reviewed journal for video game audiences and practitioners interested in the history, theory, and criticism of video games.
+<html>
+
+<body><p>
+<em>Tiffany Funk</em> (PhD) is an artist, critical theorist, and researcher specializing in emerging media, computer art, video games, and performance art practices.
+<br /><br />
+She researches and develops work exploring current and historical digital technological art practices, alternately taking the form of critical and conceptual writing, drawing, software, video, and installation. These works interrogate the human-prosthetic relationship with technology, focusing on the disruptions and distortions in socio-cultural mis/understandings of computer programming as interactive performance.
+<br /><br />
+Her current research delves into the role early computational performances play in both conceptual art practices and the development of human-computer relations in the latter half of the 20th century.
+<br /><br />
+Funk is the Editor-in-Chief of the Video Game Art Reader, a peer-reviewed journal for video game audiences and video game practitioners interested in the history, theory, and criticism of video games, explored through the lens of art history and visual culture. Its primary aim is to facilitate conversation and exploration of video game art, documenting and disseminating discourse about the far-reaching influence of video games on history, society, and culture.
+<br /><br />
+She is co-founder of IDEAS (Interdisciplinary Education in the Arts)—an intermedia, theory, and practice-based Bachelor of Arts degree at the University of Illinois at Chicago.
+<br /><br />
+<h5><a href="/assets/tfunk_2023.07.12_cv.pdf">[full cv]</a></h5>
+</p>
+</body>
