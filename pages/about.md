@@ -18,5 +18,7 @@ Funk is the Editor-in-Chief of the Video Game Art Reader, a peer-reviewed journa
 She is co-founder of IDEAS (Interdisciplinary Education in the Arts)—an intermedia, theory, and practice-based Bachelor of Arts degree at the University of Illinois at Chicago.
 <br /><br />
 <h5><a href="portfolio/assets/tfunk_2023.07.12_cv.pdf">[full cv]</a></h5>
+<br /><br />
+  <a href="mailto:tiffany.a.funk@gmail.com">tiffany.a.funk@<span style="display:none;">g</span>mail.com
 </p>
 </body>
