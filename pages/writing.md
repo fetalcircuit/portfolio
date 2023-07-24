@@ -3,6 +3,7 @@ layout: page
 title: Writing
 category: writing
 permalink: /writing
+image: place.jpg
 ---
 # Selected bibliography:
 <table>
