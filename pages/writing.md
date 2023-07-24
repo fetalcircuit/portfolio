@@ -17,7 +17,7 @@ Selected bibliography:
     <tr>
 <td>
 <img alt="blackbox" src="/assets/img/blackbox.png" width="150px;" align="left" style="padding-right:10px;">
-<span class="post-meta"><a href="[https://goo.gl/atrFx5](https://flatland.online/index.php/archive/hbh/)"><em><b>""Blackbox (n.)," Hole Black Hole Catalog, Flatland, 2019."</b></em></a><br /><br />These diagramatic passages use software flowchart methods and aesthetics to explore the effects that the term "blackbox" as metaphor/software/theory have on knowledge generation. What would a "cult of the black box" look like, or are we already unwitting members? Included in the Hole Black Hole Catalog, produced by Flatland, Chicago. 
+<span class="post-meta"><a href="[https://goo.gl/atrFx5](https://flatland.online/index.php/archive/hbh/)"><em><b>"Blackbox (n.), in Hole Black Hole Catalog, Flatland, 2019."</b></em></a><br /><br />These diagramatic passages use software flowchart methods and aesthetics to explore the effects that the term "blackbox" as metaphor/software/theory have on knowledge generation. What would a "cult of the black box" look like, or are we already unwitting members? Included in the Hole Black Hole Catalog, produced by Flatland, Chicago. 
 <br /><br />
 <tr>
 <td>
