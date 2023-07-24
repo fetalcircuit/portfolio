@@ -4,6 +4,7 @@ title: Writing
 category: writing
 permalink: /writing
 ---
+Selected bibliography:
 <table>
 <tr>
 <td>
