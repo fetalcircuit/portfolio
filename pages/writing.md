@@ -5,7 +5,7 @@ category: writing
 permalink: /writing
 image: place.jpg
 ---
-# Selected bibliography:
+Selected bibliography:
 <table>
 <tr>
 <td>
@@ -14,6 +14,11 @@ image: place.jpg
 </span>
 </td>
 </tr>
+    <tr>
+<td>
+<img alt="blackbox" src="/assets/img/blackbox.png" width="150px;" align="left" style="padding-right:10px;">
+<span class="post-meta"><a href="[https://goo.gl/atrFx5](https://flatland.online/index.php/archive/hbh/)"><em><b>""Blackbox (n.)," Hole Black Hole Catalog, Flatland, 2019."</b></em></a><br /><br />These diagramatic passages use software flowchart methods and aesthetics to explore the effects that the term "blackbox" as metaphor/software/theory have on knowledge generation. What would a "cult of the black box" look like, or are we already unwitting members? Included in the Hole Black Hole Catalog, produced by Flatland, Chicago. 
+<br /><br />
 <tr>
 <td>
 <span class="post-meta"><a href="https://frieze.com/article/wetware-tilt-brush-how-artists-tested-limits-technology-2010s"><em><b>“From Wetware to Tilt Brush, How Artists Tested the Limits of Technology in the 2010s”</b></em></a>
