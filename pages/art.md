@@ -4,29 +4,25 @@ title: net.art
 permalink: /art/
 ---
 
-<h2><span class="post-link">I CHING ONLINE</span></h2>
-<ul class="post-list">
-  <li>
-    <span class="post-meta">2016-present, website (HTML5, Processing, p5.js)</span>
-        </li>
-      </ul>
-<img src="../assets/img/iching.png" width="100%" align="left" style="padding-right:10px; padding-bottom:10px;">
-<p style="padding-top:10px">This software generate IChing (Book of Changes) readings for the user.  Each image provides a symbolic representation of the resultant hexigram; the images are generated through an algorithm based upon the coin-toss method of IChing divination and Lejaren Hiller’s ILLIAC II subroutine ICHING [1]. The text generated onscreen will include pertinent selections from the most popular translations and commentaries of the IChing.
+## I CHING ONLINE
+#### 2016-present, website (HTML5, Processing, p5.js)
+
+<img src="../assets/img/iching.png" width="100%">
+
+This software generates IChing (Book of Changes) readings for the user.  Each image provides a symbolic representation of the resultant hexigram; the images are generated through an algorithm based upon the coin-toss method of IChing divination and Lejaren Hiller’s ILLIAC II subroutine ICHING [1]. The text generated onscreen will include pertinent selections from the most popular translations and commentaries of the IChing.
+
 The aesthetic of these generative covers is based on 1970s science-fiction pulp paperbacks. Unlike the cover art of the 1960s, 70s cover art tended toward the more surreal, psychedelic, and symbolic.  Many of these artists and authors found inspiration from Eastern philosophy – a prominent example being Philip K. Dick and his interest in IChing divination.
-  <br /><br />
-  <a href="https://fetalcircuit.github.io/iching/">I CHING ONLINE PORTAL</a>
-  <br /><br />
-  1. This process is documented in Lejaren Hiller’s article “Programming the I-Ching oracle.” <em>Computer Studies in the Humanities and Verbal Behavior</em> 3 (1970): 130-43.
-</p>
-<h2><span class="post-link">INTERACTIVE FICTION/TEXT ADVENTURES</span></h2>
-<ul class="post-list">
-  <li>
-    <span class="post-meta">2018, websites (HTML5, Processing, Twine, p5.js) </span>
-        </li>
-      </ul>
-<img src="/assets/img/hex.png" width="100%" align="left" style="padding-right:10px; padding-bottom:10px;">
-<img src="/assets/img/01chatter.gif" width="100%" align="left" style="padding-right:10px; padding-bottom:10px;">
-<img src="/assets/img/wendy.png" width="100%" align="left" style="padding-right:10px; padding-bottom:10px;">
+
+[I CHING ONLINE PORTAL](https://fetalcircuit.github.io/iching/)
+
+1. This process is documented in Lejaren Hiller’s article “Programming the I-Ching oracle.” <em>Computer Studies in the Humanities and Verbal Behavior</em> 3 (1970): 130-43.
+
+## INTERACTIVE FICTION/TEXT ADVENTURES
+#### 2018, websites (HTML5, Processing, Twine, p5.js)
+
+<img src="/assets/img/hex.png" width="100%">
+<img src="/assets/img/01chatter.gif" width="100%">
+<img src="/assets/img/wendy.png" width="100%">
 <p style="padding-top:10px">Websites/games/interactive fiction/non-fiction and text adventure experiments:
   <br /><br />
   <a href="https://fetalcircuit.github.io/powwow/">Pow-Wows; or, Long Lost Friend (Annotated)</a><br />
@@ -34,32 +30,28 @@ The aesthetic of these generative covers is based on 1970s science-fiction pulp 
   <a href="https://fetalcircuit.github.io/overlooking/">overlooking</a><br />
   <a href="https://fetalcircuit.github.io/murderhouse/">murder house</a>
 </p>
-<h2><span class="post-link">GENERATIVE KALEIDOCOPE</span></h2>
-<ul class="post-list">
-  <li>
-    <span class="post-meta">2016, website, custom software</span>
-        </li>
-      </ul>
-<img src="/assets/img/02kaleido.png" width="100%" align="left" style="padding-right:10px; padding-bottom:10px;">
-<p style="padding-top:10px">These are tests of a software application, originally coded in Processing and translated to p5.js (javaScript), that collects images using the Instagram API, specified using certain tags (examples: #instakaleidoscopic), and creates generative kaleidoscopic videos from them.
-  <br /><br />
-  <a href="https://fetalcircuit.github.io/kaleidoscope/">Kaleidoscope portal</a>
-</p>
 
-<h2><span class="post-link">MEMENTO MAURY</span></h2>
-<ul class="post-list">
-  <li>
-    <span class="post-meta">2015, custom software, video</span>
-        </li>
-      </ul>
+## GENERATIVE KALEIDOCOPE
+#### 2016, website, custom software
+    
+<img src="/assets/img/02kaleido.png" width="100%">
+
+These are tests of a software application, originally coded in Processing and translated to p5.js (javaScript), that collects images using the Instagram API, specified using certain tags (examples: #instakaleidoscopic), and creates generative kaleidoscopic videos from them.
+
+[Kaleidoscope portal](https://fetalcircuit.github.io/kaleidoscope/)
+
+## MEMENTO MAURY
+#### 2015, custom software, video
+
 <div style="padding:66.88% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/144545106" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br />
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/144544127" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p style="padding-top:10px"><em>Memento Maury</em> is an exploration of gender essentialism and racial/cultural stereotyping in media as evidenced by the long-running daytime talk program <em>The Maury Povich Show</em>. By aggregating data&mdash;in this case, screenshots introducing new segments in the program&mdash;over the course of 100 episodes, one can see not only how the formulaic aspects of the show emphasize gender and racial tropes, but also how the repetition built in to popular media serves to both reflect and further ossify social and cultural hierarchical structures. Layering effects were created using custom stacking software, built with the open source programming language and development environment Processing. This is a documentation clip of the generative version of Memento Maury, screened for a full week on ACRE TV as part of the AutomataBahn series in November, 2014.
-<br /><br />
-<a href="http://www.acretv.org/category/automatabahn/">Automatabahn archive @ acretv.org</a>
-</p>
-<h2><span class="post-link">PISTOL MANDALA</span></h2>
+
+Memento Maury is an exploration of gender essentialism and racial/cultural stereotyping in media as evidenced by the long-running daytime talk program <em>The Maury Povich Show</em>. By aggregating data&mdash;in this case, screenshots introducing new segments in the program&mdash;over the course of 100 episodes, one can see not only how the formulaic aspects of the show emphasize gender and racial tropes, but also how the repetition built in to popular media serves to both reflect and further ossify social and cultural hierarchical structures. Layering effects were created using custom stacking software, built with the open source programming language and development environment Processing. This is a documentation clip of the generative version of Memento Maury, screened for a full week on ACRE TV as part of the AutomataBahn series in November, 2014.
+
+[Automatabahn archive @ acretv.org](http://www.acretv.org/category/automatabahn/)
+
+## PISTOL MANDALA
 <ul class="post-list">
   <li>
     <span class="post-meta">2016, custom software, video</span>
