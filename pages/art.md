@@ -20,21 +20,21 @@ The aesthetic of these generative covers is based on 1970s science-fiction pulp 
 ## INTERACTIVE FICTION/TEXT ADVENTURES
 #### 2018, websites (HTML5, Processing, Twine, p5.js)
 
-<img src="/assets/img/hex.png" width="100%">
-<img src="/assets/img/01chatter.gif" width="100%">
-<img src="/assets/img/wendy.png" width="100%">
-<p style="padding-top:10px">Websites/games/interactive fiction/non-fiction and text adventure experiments:
+<img src="../assets/img/hex.png" width="100%">
+<img src="../assets/img/01chatter.gif" width="100%">
+<img src="../assets/img/wendy.png" width="100%">
+
+Websites/games/interactive fiction/non-fiction and text adventure experiments:
   <br /><br />
   <a href="https://fetalcircuit.github.io/powwow/">Pow-Wows; or, Long Lost Friend (Annotated)</a><br />
   <a href="https://fetalcircuit.github.io/teethmonster/">TEETH MONSTER</a><br />
   <a href="https://fetalcircuit.github.io/overlooking/">overlooking</a><br />
   <a href="https://fetalcircuit.github.io/murderhouse/">murder house</a>
-</p>
 
 ## GENERATIVE KALEIDOCOPE
 #### 2016, website, custom software
     
-<img src="/assets/img/02kaleido.png" width="100%">
+<img src="../assets/img/02kaleido.png" width="100%">
 
 These are tests of a software application, originally coded in Processing and translated to p5.js (javaScript), that collects images using the Instagram API, specified using certain tags (examples: #instakaleidoscopic), and creates generative kaleidoscopic videos from them.
 
