@@ -8,14 +8,19 @@ permalink: /art/
 #### 2016-present, website (HTML5, Processing, p5.js)
 
 <img src="../assets/img/iching.png" width="100%">
+<figure>
+    <img src="../assets/img/Print-12(1).jpg" width="100%">
+         alt="Beall Center installation">
+    <figcaption>Installation of <em>I Ching Online</em> (right) at the Beall Center for Art + Technology; photo by Yubo Dong, courtesy of Beall Center for Art + Technology, Claire Trevor School for the Arts at UC Irvine.</figcaption>
+</figure>
 
-This software generates IChing (Book of Changes) readings for the user.  Each image provides a symbolic representation of the resultant hexigram; the images are generated through an algorithm based upon the coin-toss method of IChing divination and Lejaren Hiller’s ILLIAC II subroutine ICHING [1]. The text generated onscreen will include pertinent selections from the most popular translations and commentaries of the IChing.
+This software generates *IChing (Book of Changes)* readings for the user.  Each image provides a symbolic representation of the resultant hexigram; the images are generated through an algorithm based upon the coin-toss method of IChing divination and Lejaren Hiller’s ILLIAC II subroutine ICHING [1]. The text generated onscreen will include pertinent selections from the most popular translations and commentaries of the IChing.
 
 The aesthetic of these generative covers is based on 1970s science-fiction pulp paperbacks. Unlike the cover art of the 1960s, 70s cover art tended toward the more surreal, psychedelic, and symbolic.  Many of these artists and authors found inspiration from Eastern philosophy – a prominent example being Philip K. Dick and his interest in IChing divination.
 
 [I CHING ONLINE PORTAL](https://fetalcircuit.github.io/iching/)
 
-1. This process is documented in Lejaren Hiller’s article “Programming the I-Ching oracle.” <em>Computer Studies in the Humanities and Verbal Behavior</em> 3 (1970): 130-43.
+1. This process is documented in Lejaren Hiller’s article “Programming the I-Ching oracle.” *Computer Studies in the Humanities and Verbal Behavior* 3 (1970): 130-43.
 
 ## INTERACTIVE FICTION/TEXT ADVENTURES
 #### 2018, websites (HTML5, Processing, Twine, p5.js)
