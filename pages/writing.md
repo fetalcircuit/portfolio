@@ -6,6 +6,7 @@ permalink: /writing
 image: place.jpg
 ---
 Selected bibliography:
+<html>
 <table>
 <tr>
 <td>
@@ -48,3 +49,4 @@ Selected bibliography:
     </td>
     </tr>
     </table>
+</html>
