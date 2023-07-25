@@ -52,49 +52,38 @@ Memento Maury is an exploration of gender essentialism and racial/cultural stere
 [Automatabahn archive @ acretv.org](http://www.acretv.org/category/automatabahn/)
 
 ## PISTOL MANDALA
-<ul class="post-list">
-  <li>
-    <span class="post-meta">2016, custom software, video</span>
-  </li>
-</ul>
+#### 2016, custom software, video
+
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/151813335" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p style="padding-top:10px">Pistol Mandala is a series of prints and videos produced using custom code. Videos are generative, configuring .tif images of pistols into circular mandala forms for contemplation.</p>
 
-<h2><span class="post-link">"...AND THE DAY WILL BE BEAUTIFUL"</span></h2>
-<ul class="post-list">
-  <li>
-    <span class="post-meta">2016, digital video installation</span>
-  </li>
-</ul>
+Pistol Mandala is a series of prints and videos produced using custom code. Videos are generative, configuring .tif images of pistols into circular mandala forms for contemplation.
+
+## "...AND THE DAY WILL BE BEAUTIFUL"
+#### 2016, digital video installation
+
 <div style="padding:66.67% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/187682400" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p style="padding-top:10px">This video was part of a site-specific installation featured in the Em(body) Exhibition in the Uptown Arts Center. The work celebrates the legacy of Preston Bradley, whose work in the Civil Rights movement in Chicago remains startlingly relevant.</p>
 
-<h2><span class="post-link">PORTRAITS (TERMINATORS)</span></h2>
-<ul class="post-list">
-  <li>
-    <span class="post-meta">2012, custom software, video</span>
-  </li>
-</ul>
+This video was part of a site-specific installation featured in the Em(body) Exhibition in the Uptown Arts Center. The work celebrates the legacy of Preston Bradley, whose work in the Civil Rights movement in Chicago remains startlingly relevant.
+
+## PORTRAITS (TERMINATORS)
+#### 2012, custom software, video
+
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/44964225" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p style="padding-top:10px">Portraits (Terminators) is a video installation of 49 videos of young men's faces, but with bionic overlays (laser eyes, alloy jaws) on their features a la The Terminator. Each uploaded this content on social networking sites, creating an ad hoc community displaying their 3D tracking and modeling prowess. The tutorial they followed to produce these "portraits" begs the question, Why the Terminator? Why do they transform themselves into a militaristic cyborg, when this software is capable of an infinity of options? Or is it the software that influences the user to create such a figure?</p>
 
-<h2><span class="post-link">SANS SANS SOLEIL</span></h2>
-<ul class="post-list">
-  <li>
-    <span class="post-meta">2010, custom software</span>
-        </li>
-      </ul>
+Portraits (Terminators) is a video installation of 49 videos of young men's faces, but with bionic overlays (laser eyes, alloy jaws) on their features a la The Terminator. Each uploaded this content on social networking sites, creating an ad hoc community displaying their 3D tracking and modeling prowess. The tutorial they followed to produce these "portraits" begs the question, Why the Terminator? Why do they transform themselves into a militaristic cyborg, when this software is capable of an infinity of options? Or is it the software that influences the user to create such a figure?
+
+## SANS SANS SOLEIL
+#### 2010, custom software
+
 <div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/11626971" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p style="padding-top:10px">This visualization was inspired by Chris Marker&#039;s film <em>Sans Soleil</em>, a loosely woven narrative told through the epistolary relationship between a world traveler and a friend back home. Though the visual format of the film is described through a series of moving images cut together to form a journey through a traveler&#039;s memory, the text of the film is largely based off the letters and the inner journey they afford the reader. In this visualization, each phrase of the text is represented by a bounding phrase, or &#039;organism,&#039; that collides with other organisms in its vicinity. Matches of similar words between phrases cause the word to appear and a web to form between organisms. The user, or &#039;traveler,&#039; can &#039;capture&#039; an organism and drag it to find more matches, creating her own webs and thus a whole new narrative experience of the original text. Together both visualization and user construct any number of journeys for the fictive traveler to embrace.
-<br /><br />
-    <a href="https://github.com/fetalcircuit/sanssanssoleil/releases/tag/v3.0">Download app</a></p>
 
-<h2><span class="post-link">National UFO Reporting Agency reported sitings, 1925-2009</span></h2>
-<ul class="post-list">
-  <li>
-    <span class="post-meta">2009, custom software</span>
-        </li>
-      </ul>
+This visualization was inspired by Chris Marker's film <em>Sans Soleil</em>, a loosely woven narrative told through the epistolary relationship between a world traveler and a friend back home. Though the visual format of the film is described through a series of moving images cut together to form a journey through a traveler&#039;s memory, the text of the film is largely based off the letters and the inner journey they afford the reader. In this visualization, each phrase of the text is represented by a bounding phrase, or "organism," that collides with other organisms in its vicinity. Matches of similar words between phrases cause the word to appear and a web to form between organisms. The user, or "traveler," can "capture" an organism and drag it to find more matches, creating her own webs and thus a whole new narrative experience of the original text. Together both visualization and user construct any number of journeys for the fictive traveler to embrace.
+
+[Download app](https://github.com/fetalcircuit/sanssanssoleil/releases/tag/v3.0)
+
+## National UFO Reporting Agency reported sitings, 1925-2009
+#### 2009, custom software
+
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/8244687" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p style="padding-top:10px"><em>National UFO Reporting Center reported sitings, 1925-2009</em> is an attempt to visualize the number and frequency of civilian sitings of various shapes of UFOs as reported to an official government agency. This interactive data visualization consists of two basic interfaces; the first displays the increasing frequency of various UFO shapes from the years 1925 through the present, while the second allows the user to select individual years to explore the frequency of sited shapes. While the colors representing the individual UFO shapes were chosen arbitrarily, the variation in color allows the user to differentiate between different UFOS in both interfaces, whether it be only by color, or both color and shape.
-</p>
+
+National UFO Reporting Center reported sitings, 1925-2009 is an attempt to visualize the number and frequency of civilian sitings of various shapes of UFOs as reported to an official government agency. This interactive data visualization consists of two basic interfaces; the first displays the increasing frequency of various UFO shapes from the years 1925 through the present, while the second allows the user to select individual years to explore the frequency of sited shapes. While the colors representing the individual UFO shapes were chosen arbitrarily, the variation in color allows the user to differentiate between different UFOS in both interfaces, whether it be only by color, or both color and shape.
