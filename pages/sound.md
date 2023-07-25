@@ -1,0 +1,11 @@
+---
+layout: page
+title: Sound
+permalink: /sound
+---
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1615870729&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fetalcircuit" title="Fetal Circuit" target="_blank" style="color: #cccccc; text-decoration: none;">Fetal Circuit</a> · <a href="https://soundcloud.com/fetalcircuit/sets/we-live-underground" title="we live underground" target="_blank" style="color: #cccccc; text-decoration: none;">we live underground</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1507555207&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fetalcircuit" title="Fetal Circuit" target="_blank" style="color: #cccccc; text-decoration: none;">Fetal Circuit</a> · <a href="https://soundcloud.com/fetalcircuit/organ-motor-room-part-1" title="organ motor room (part 1)" target="_blank" style="color: #cccccc; text-decoration: none;">organ motor room (part 1)</a></div>
+
+Fetal Circuit is an experimental soundscape and dark ambient project in creating soundtracks for existing and speculative horror tabletop roleplaying and video games, performances, and installations. The most recent EP, we live underground, features tape loops and custom-built analog noise machines and instruments.
