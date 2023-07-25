@@ -10,7 +10,7 @@ permalink: /art/
     <span class="post-meta">2016-2018, website (HTML5, Processing, p5.js)</span>
         </li>
       </ul>
-<img src="../assets/images/art/iching.png" width="100%" align="left" style="padding-right:10px; padding-bottom:10px;">
+<img src="../assets/img/iching.png" width="100%" align="left" style="padding-right:10px; padding-bottom:10px;">
 <p style="padding-top:10px">This software generate IChing (Book of Changes) readings for the user.  Each image provides a symbolic representation of the resultant hexigram; the images are generated through an algorithm based upon the coin-toss method of IChing divination and Lejaren Hiller’s ILLIAC II subroutine ICHING [1]. The text generated onscreen will include pertinent selections from the most popular translations and commentaries of the IChing.
 The aesthetic of these generative covers is based on 1970s science-fiction pulp paperbacks. Unlike the cover art of the 1960s, 70s cover art tended toward the more surreal, psychedelic, and symbolic.  Many of these artists and authors found inspiration from Eastern philosophy – a prominent example being Philip K. Dick and his interest in IChing divination.
   <br /><br />
