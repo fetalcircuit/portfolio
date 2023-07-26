@@ -4,7 +4,7 @@ title: Sound
 permalink: /sound
 ---
 ### Dance to Anything, Lake Eden
-Performance at {RE}:Happening 11, Black Mountain College, NC
+Performance at {RE}:Happening 11, Black Mountain NC, April 8, 2023
 
 ![Dance to Anything](../assets/img/eden.png)
 
